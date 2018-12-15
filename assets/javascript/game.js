@@ -45,7 +45,6 @@ alert("Correct!")
 guessesLeft--;
 guesses--;
 guessedLetters = [];
-break;
 alert("Wrong try again!");
 
     if (guessesLeft === 0) {
